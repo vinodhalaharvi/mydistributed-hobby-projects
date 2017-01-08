@@ -6,7 +6,7 @@ import (
     "log"
     "net"
     "net/rpc"
-    "github.com/vhalaharvi/rpclisteners"
+    "github.com/vhalaharvi/distributed-grep/rpclisteners"
 )
 
 
